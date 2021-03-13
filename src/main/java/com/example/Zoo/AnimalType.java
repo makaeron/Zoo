@@ -1,2 +1,5 @@
-package com.example.Zoo;public enum AnimalType {
+package com.example.Zoo;
+
+public enum AnimalType {
+    WALKING,SWIMMING,FLYING
 }
